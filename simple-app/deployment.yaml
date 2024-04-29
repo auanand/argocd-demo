@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: nginx-web-app
-        image: anandau/nginx:v1.2
+        image: anandau/nginx:v1.0
         ports:
         - containerPort: 80
